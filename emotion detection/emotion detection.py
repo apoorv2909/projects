@@ -82,4 +82,3 @@ def find_emotion(line):
     ln_emotion = emotion[ln_pred[0]]
     return(ln_emotion)
     
-find_emotion("you look upset")
